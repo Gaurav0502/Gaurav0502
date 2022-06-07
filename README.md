@@ -19,14 +19,26 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=Gaurav0502&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav0502" />
+
+# GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gaurav0502&column=4&margin-w=10&margin-h=10)](https://github.com/Gaurav0502/github-profile-trophy)
+
+# GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0502)
+
+# GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Gaurav0502&theme=highcontrast&show_icons=true&count_private=true)
+
+# Top Languages Card
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0502&layout=compact)
 
 
-**Languages and Tools:**  
+# Languages and Tools
 
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
