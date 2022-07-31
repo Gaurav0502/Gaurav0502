@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 # Top Languages Card
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0502&layout=compact&langs_count=10&hide=solidity)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav0502&layout=compact&langs_count=10)
 
 
 # Languages and Tools
