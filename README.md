@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 -->
 
-🔭 I’m currently working on Chatbots
+🔭 I’m currently working on Dataset Quality Estimation and Natural Language Processing
 
-🌱 I’m currently learning the development process for Chatbots and Web Crawlers in Python
+🌱 I’m currently learning Data Quality Estimation, Data Visualization, and Sentence Segmentation
 
 👯 I’m looking to collaborate on Natural Language Processing(NLP)
 
