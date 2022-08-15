@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about Machine Learning and Natural Language Processing(NLP)
 
-📫 How to reach me: mitugaurav15@gmail.com
-
 😄 Pronouns: He/Him
 
 <img src="https://komarev.com/ghpvc/?username=Gaurav0502&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav0502" />
