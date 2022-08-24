@@ -104,10 +104,3 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
-
-# My Contribution Graph
-<div align="center">
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gaurav0502&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-</div>
