@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Dataset Quality Estimation and Natural Language Processing
 
-🌱 I’m currently learning Data Quality Estimation and Data Visualization
+🌱 I’m currently learning Data Visualization and Dashboarding.
 
 👯 I’m looking to collaborate on Natural Language Processing(NLP)
 
