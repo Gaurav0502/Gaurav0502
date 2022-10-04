@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 -->
 
-🔭 I’m currently working on Dataset Quality Estimation and Natural Language Processing
+🔭 I’m currently working on Data Visualization
 
-🌱 I’m currently learning Data Visualization and Dashboarding.
+🌱 I’m currently learning Data Visualization and Dashboarding
 
 👯 I’m looking to collaborate on Natural Language Processing(NLP)
 
