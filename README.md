@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 -->
 
-🔭 I’m currently working on Data Visualization
+🔭 I’m currently working on Deep Learning
 
-🌱 I’m currently learning Data Visualization and Dashboarding
+🌱 I’m currently learning Data Visualization and Deep Learning
 
-👯 I’m looking to collaborate on Natural Language Processing(NLP)
+👯 I’m looking to collaborate on Deep Learning
 
 💬 Ask me about Machine Learning and Natural Language Processing(NLP)
 
