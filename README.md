@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 # Top Languages Card
 <div align="center">
   
-![Top Languages Card](https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=Gaurav0502&layout=compact&langs_count=10)
+![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gaurav0502&layout=compact&langs_count=10)
 
 </div>
 
