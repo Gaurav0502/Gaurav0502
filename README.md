@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 # GitHub Stats
 <div align="center">
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=Gaurav0502&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gaurav0502&theme=highcontrast&show_icons=true&count_private=true)
 
 </div>
 
