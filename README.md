@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 -->
 
-🔭 I’m currently working on Deep Learning
+🔭 I’m currently working on Natural Language Processing and Computer Vision
 
-🌱 I’m currently learning Data Visualization and Deep Learning
+🌱 I’m currently learning Natural Language Processing and Backend Development
 
-👯 I’m looking to collaborate on Deep Learning
+👯 I’m looking to collaborate on Natural Language Processing and Computer Vision
 
-💬 Ask me about Machine Learning and Natural Language Processing(NLP)
+💬 Ask me about Machine Learning and Natural Language Processing
 
 😄 Pronouns: He/Him
 
