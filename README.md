@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there , this is Gaurav Pendharkar 👋
+### Hi there 👋🏻 , this is Gaurav Pendharkar (✈️ + 🎧 + 👨🏻‍💻 + 👨🏻‍🍳)
   
 <!--
 **Gaurav0502/Gaurav0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,13 +9,11 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 -->
 
-🔭 I’m currently working on Natural Language Processing and Computer Vision
+🔭 I’m currently working on Aviation Analytics and Time Series Forecasting
 
-🌱 I’m currently learning Natural Language Processing and Backend Development
+🌱 I’m currently learning Time Series Forecasting and Machine Learning
 
-👯 I’m looking to collaborate on Natural Language Processing and Computer Vision
-
-💬 Ask me about Machine Learning and Natural Language Processing
+👯 I’m looking to collaborate on finding insights from domain specific data!
 
 😄 Pronouns: He/Him
  
