@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  
 </div>
 
+<!--
 # GitHub Profile Trophies
 
 <div align="center">
@@ -33,15 +34,13 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gaurav0502&column=10&margin-w=10&margin-h=10)](https://github.com/Gaurav0502/github-profile-trophy)
 
  </div>
-
-# GitHub Stats
+-->
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gaurav0502?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
-# Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=blue)
