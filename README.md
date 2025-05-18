@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 -->
 
-🔭 I’m currently working on Aviation Analytics and Time Series Forecasting
+🔭 I’m currently working on Generative AI and Aviation Analytics
 
-🌱 I’m currently learning Time Series Forecasting and Machine Learning
+🌱 I’m currently learning Generative AI and Machine Learning
 
 👯 I’m looking to collaborate on finding insights from domain specific data!
 
